@@ -7,7 +7,7 @@ Transcend enables developers to build autonomous, fully on-chain verifiable AI a
       <a href="https://x.com/Aevosdevs">
       <img src="https://img.shields.io/twitter/follow/Aevos"
           alt="follow on Twitter"></a>
-    <a href="https://t.me/aevos">
+    <a href="https://t.me/aevosdevs">
   <img src="https://img.shields.io/badge/Chat%20on-Telegram-blue?logo=telegram"
       alt="Chat on Telegram">
 </a>
@@ -128,7 +128,7 @@ Underlying TEE architecture that powers Proof of Transcend.
 
 If you have any questions about Aevos, feel free to do:
 
-- [Join our Telegram](https://t.me/) and ask for help.
+- [Join our Telegram](https://t.me/aevosdevs) and ask for help.
 
 ## Roadmap
 
